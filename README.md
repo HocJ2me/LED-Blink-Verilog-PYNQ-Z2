@@ -10,7 +10,7 @@ In this repository, I would like to introduce how to create an application on FP
 
 See the [tutorial.md](https://github.com/HocJ2me/LED-Blink-Verilog-PYNQ-Z2/blob/main/Tutorial.md) for full documentation.
 
-# refernce 
+# reference 
 
 * [My first project on Zynq using Vivado from Scratch - PYNQ-Z2](https://www.fpgalover.com/index.php/boards/pynq-z2/90-my-first-project-on-zynq-using-vivado-from-scratch-pynq-z2)https://www.fpgalover.com/index.php/boards/pynq-z2/90-my-first-project-on-zynq-using-vivado-from-scratch-pynq-z2
 
