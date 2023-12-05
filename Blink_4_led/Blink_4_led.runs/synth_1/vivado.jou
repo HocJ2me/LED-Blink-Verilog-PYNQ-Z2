@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Tue Dec  5 22:17:34 2023
+# Process ID: 12972
+# Current directory: C:/Users/DHBK/Blink_4_led/Blink_4_led.runs/synth_1
+# Command line: vivado.exe -log led_blink.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source led_blink.tcl
+# Log file: C:/Users/DHBK/Blink_4_led/Blink_4_led.runs/synth_1/led_blink.vds
+# Journal file: C:/Users/DHBK/Blink_4_led/Blink_4_led.runs/synth_1\vivado.jou
+# Running On: DESKTOP-7PABSKI, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 6, Host memory: 17033 MB
+#-----------------------------------------------------------
+source led_blink.tcl -notrace
